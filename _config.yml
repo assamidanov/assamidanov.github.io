@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Anuar Assamidanov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/bio.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Claremont, CA"
   email            : "anuar.assamidanov@cgu.edu"
