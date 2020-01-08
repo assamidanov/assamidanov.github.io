@@ -4,5 +4,5 @@ permalink: /machine-learning/
 title: "Machine Learning"
 author_profile: true
 header:
-  image: "/images/back1.jpg"
+  image: "/images/back_30.jpg"
 ---
