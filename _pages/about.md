@@ -1,8 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/almaty.jpg"
+
 
 ---
 
