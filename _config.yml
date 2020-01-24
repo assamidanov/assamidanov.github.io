@@ -138,9 +138,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-Linkedin-square"
+      url: "https://www.linkedin.com/in/anuar-assamidanov/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/assamidanov"
@@ -296,7 +296,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
