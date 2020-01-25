@@ -3,7 +3,7 @@ title: "Identifying Important Features Using Household Survey Data"
 date: 2019-01-04
 tags: [machine learning, data science, feature engineering, feature importance, random forest, catboost]
 header:
-  image: "/images/idps.png/"
+  image: "/images/Arqaam/idps1/"
 excerpt: "Machine Learning, Feature Importance, Data Science"
 ---
 
