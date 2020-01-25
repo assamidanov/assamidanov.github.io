@@ -2,8 +2,8 @@
 title: "Identifying Important Features Using Household Survey Data"
 date: 2019-01-04
 tags: [machine learning, data science, feature engineering, feature importance, random forest, catboost]
-#header:
-  # image: "/images/project/bla/bla/" map of Afganistan
+header:
+  image: "/images/idps.png/"
 excerpt: "Machine Learning, Feature Importance, Data Science"
 ---
 
@@ -102,9 +102,12 @@ The CatBoost SHAP added new variables to the feature importance. Each class is h
 
 By comparing all the techniques of identifying feature importance, it can be concluded that SHAP provides more robust performance compared with other techniques.  SHAP also has a solid theoretical foundation in game theory. The difference of CatBoost from Random Forest SHAP Value, CatBoost uses Stratified cross-validation. It increases the weight of underrepresented classes, to avoid false-positive predictions. However, the given data set is not structured as a typical imbalanced dataset, since there is no high risk of predicting wrong Class 1 and Class 2. Predicting right Class 3 and Class 0 is sufficient. Thus, I assume Random forest SHAP outperforms CatBoost SHAP.
 
-### Source:
+You can find the code used for this article on my [GitHub](https://github.com/assamidanov/Important-Featues-of-IDPs-). Please feel free to contact me if you need any further information.
+
+### References:
 
 1.	https://christophm.github.io/interpretable-ml-book/shap.html
 2.	Lundberg, Scott M., and Su-In Lee. “A unified approach to interpreting model predictions.” Advances in Neural Information Processing Systems. 2017
 3.	https://shap.readthedocs.io/en/latest/
-4.	https://catboost.ai/docs/concepts/tutorials.html
+4.	https://catboost.ai/docs/concepts/tutorials.html\
+5. https://www.afghanistan-analysts.org/more-violent-more-widespread-trends-in-afghan-security-in-2017/idps-2017-10-unocha-screen-shot-2017-10-27-at-13-25-39/
