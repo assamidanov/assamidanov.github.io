@@ -11,7 +11,7 @@ excerpt: "Machine Learning, Feature Importance, Data Science"
 
 Afghanistan faces one of the world’s most acute internal displacement crises; resulting of several factors such as protracted conflict, ongoing insecurity, and natural hazards. Displacement has become a familiar survival strategy for many Afghans and, in some cases, an inevitable part of life for two generations. As of 31 December 2018, Afghanistan has 2,598,000 total number of internally displaced persons (IDPs).
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/idps.jpg" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/idps1.jpg" alt="linearly separable data">
 
 Displacement affects all individuals differently with needs, vulnerabilities and protection risks evolving due to exhaustion of coping mechanisms and only basic emergency assistance provided following initial displacement. Inadequate shelter, food insecurity, insufficient access to sanitation and health facilities, as well as a lack of protection, often result in precarious living conditions that jeopardize the well-being and dignity of affected families.
 
