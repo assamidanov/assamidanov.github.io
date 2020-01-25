@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anuar-assamidanov/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -139,7 +139,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anuar-assamidanov/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
