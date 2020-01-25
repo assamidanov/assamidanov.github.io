@@ -90,7 +90,7 @@ The global interpretation methods include feature importance, feature dependence
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture8.png" alt="linearly separable data">
 
-The figure above illustrates the SHAP values of a model's output to explain how features impact the output of the model. For fam_origin, mean(|SHAP|) is about 0.08 on Class 3(Host), and (0.15-0.08)=0.07 on Class 0 (Conflict IDPs), it means fam_origin influence predicting Class 3 and Class 0  quite the same. Fam_origin is also the most influential feature globally. As can be seen from the graph due to the imbalanced structure of the data, Class 1 and Class 2 covers a tiny fraction in the bar charts. Class 1 and Class 2 covers less than 0.5% of the whole dataset.
+The figure above illustrates the SHAP values of a model's output to explain how features impact the output of the model. For fam_origin, mean(SHAP) is about 0.08 on Class 3(Host), and (0.15-0.08)=0.07 on Class 0 (Conflict IDPs), it means fam_origin influence predicting Class 3 and Class 0  quite the same. Fam_origin is also the most influential feature globally. As can be seen from the graph due to the imbalanced structure of the data, Class 1 and Class 2 covers a tiny fraction in the bar charts. Class 1 and Class 2 covers less than 0.5% of the whole dataset.
 
 *CatBoost  model*
 
