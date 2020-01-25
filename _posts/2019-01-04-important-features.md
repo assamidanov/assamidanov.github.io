@@ -23,3 +23,10 @@ This project aims to perform a machine-learning algorithm to predict the displac
 ## Explanatory Data Analysis
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture1.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture2.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture3.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture4.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture5.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture7.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture8.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture16png.png" alt="linearly separable data">
