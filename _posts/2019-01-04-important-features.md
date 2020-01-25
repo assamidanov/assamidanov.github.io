@@ -30,8 +30,6 @@ According to the bar chart above, 90.57% percent of the respondents are Host, wh
 
 Since the project aimed to determine important features that constitute the status of the respondents. It is necessary to check correlation coefficients and remove one of the variables of the highly correlated variables.  The correlation map above shows that if the person owns the land it will do some activities on that land. Thus, we can remove land_activities which are more specific for our purpose.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture3.png" alt="linearly separable data">
-
 ## Machine Learning Model: Feature Importance
 
 As per the problem statement, the emphasis is on identifying the importance of a particular feature in the machine learning model. This is a multiclass classification problem, wherein we need to identify the important features. It is also necessary to justify the reasons by showing why it was chosen those specific features and how it turns out to be important features. Identifying important features is very important due to the following reasons:
@@ -49,7 +47,7 @@ Because of the comprehensiveness of the data, and its survey specifications, whi
 
 The default feature importance technique (feature_importances_ in Scikit-Learn) is based on the concept of training a tree we can compute how much each feature contributes to decreasing the weighted impurity. In the case of Random Forest, it takes the average of the decrease in impurity over trees.  
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture4.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture3.png" alt="linearly separable data">
 
 The bar chart above explains how much prediction changes if we change the features. As the variables are in factions, the overall summation will be 1.
 
@@ -68,7 +66,7 @@ Intuitively, the importance of these features makes sense to determine the statu
 
 The permutation feature importance is defined to be the decrease in a model score when a single feature value is randomly shuffled. This procedure breaks the relationship between the feature and the target, thus the drop in the model score is indicative of how much the model depends on the feature. This technique benefits from being model agnostic and can be calculated many times with different permutations of the feature.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture5.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture4.png" alt="linearly separable data">
 
 From this approach, we could see that the plot confirms what we have seen above, that the first 3 variables are the most important. The most interesting aspect is being unaccompanied minor(vul_minor) and ethnicity(ethnic) which are added into the most 10 important variables. One more nice feature about rfpimp is that it contains functionalities for dealing with the issue of collinear features.
 
@@ -76,7 +74,7 @@ From this approach, we could see that the plot confirms what we have seen above,
 
 This approach requires to drop one feature from the training data and compare this model’s feature importance with all features model. This process will be performed for all features. This technique is assumed to be more accurate feature importance than permutation and
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture7.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture5.png" alt="linearly separable data">
 
 Firstly, negative importance, in this case, infers that eliminating given features from the model improves the performance.  The top 10 features stay the same. While it is surprising that by removing expenditure for transport, the performance boost can be observed, though it was among the most important variable in previous approaches. By observing other least important features, it can be extrapolated that it matches quite well with the least important variables from previous approaches.
 
@@ -88,7 +86,7 @@ The goal of SHAP is to explain the prediction of an instance x by computing the 
 
 The global interpretation methods include feature importance, feature dependence, interactions, clustering and summary plots. With SHAP, global interpretations are consistent with the local explanations, since the Shapley values are the “atomic unit” of the global interpretations.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture8.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture7.png" alt="linearly separable data">
 
 The figure above illustrates the SHAP values of a model's output to explain how features impact the output of the model. For fam_origin, mean(SHAP) is about 0.08 on Class 3(Host), and (0.15-0.08)=0.07 on Class 0 (Conflict IDPs), it means fam_origin influence predicting Class 3 and Class 0  quite the same. Fam_origin is also the most influential feature globally. As can be seen from the graph due to the imbalanced structure of the data, Class 1 and Class 2 covers a tiny fraction in the bar charts. Class 1 and Class 2 covers less than 0.5% of the whole dataset.
 
@@ -96,7 +94,7 @@ The figure above illustrates the SHAP values of a model's output to explain how 
 
 CatBoost is based on gradient boosting. It is a machine learning algorithm that allows users to quickly handle categorical features for a large data set and this differentiates it from XGBoost & LightGBM. CatBoost has also a unique advancement in the implementation of ordered boosting. Both techniques help to fight a prediction shift caused by a special kind of target leakage present in all existing implementations of gradient boosting algorithms. CatBoost provides the functionality to calculate the effect of instances from the training dataset on the optimized metric values. In the feature importance function, you can get the SHAP values, just by mentioning type=’ShapValues’
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture9.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Arqaam/Picture8.png" alt="linearly separable data">
 
 The CatBoost SHAP added new variables to the feature importance. Each class is homogeneously distributed within the features, which means that contribution is normalized based on the total datasets. It can be observed top 10 the most important features are quite similar to Random Forest SHAP, while some orders could be different
 
