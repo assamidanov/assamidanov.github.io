@@ -4,7 +4,7 @@ date: 2019-10-01
 tags: [Data science]
 #header:
   #image: "/images/Arqaam/idps1.jpg"
-excerpt: "Machine Learning"
+excerpt: "Data Cleaning, Feature Engineering, Baseline Machine Learning"
 ---
 
 ## Question: Can we build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not?
