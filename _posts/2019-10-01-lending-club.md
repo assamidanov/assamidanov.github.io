@@ -11,6 +11,8 @@ excerpt: "Data Cleaning, Feature Engineering, Baseline Machine Learning"
 
 ### Introduction and Problem Background
 
+*This project was completed for the Data Science program through the [DATAQUEST](https://www.dataquest.io)*
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/lending/lend.png" alt="linearly separable data">
 
 Credit modeling is a well known data science problem that focuses on modeling a borrower's credit risk. Credit has played a key role in the economy for centuries and some form of credit has existed since the beginning of commerce. We'll be working with financial lending data from Lending Club. Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
@@ -187,3 +189,5 @@ predictions = pd.Series(predictions)
 
 Unfortunately, using a random forest classifier didn't improve our false positive rate. The model is likely weighting too heavily on the 1 class, and still mostly predicting 1s. We could fix this by applying a harsher penalty for misclassifications of 0s.
 Ultimately, our best model had a false positive rate of 22.5%, and a true positive rate of 22.8%. For a conservative investor, this means that they make money as long as the interest rate is high enough to offset the losses from 22.5% of borrowers defaulting, and that the pool of 22.8% of borrowers is large enough to make enough interest money to offset the losses.
+
+You can find the code used for this article on my [GitHub](https://github.com/assamidanov/Important-Featues-of-IDPs-). Please feel free to contact me if you need any further information.
