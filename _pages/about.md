@@ -6,7 +6,7 @@ header:
 ---
 ## Profile
 
-I am a Ph.D. Student in Economics at Claremont Graduate University. I'm passionate about any and all fields related to Data. I have 2 years of extensive experience in data mining, exploratory analysis, and machine learning.
+I am a Ph.D. Student in Economics at Claremont Graduate University. I'm passionate about any and all fields related to Data. I have 3 years of extensive experience in data mining, exploratory analysis, machine learning, and causal inference.
 
 
 ## Technical skills

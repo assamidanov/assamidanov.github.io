@@ -4,7 +4,7 @@ date: 2019-01-04
 tags: [Data science]
 #header:
   #image: "/images/Arqaam/idps1.jpg"
-excerpt: "Machine Learning: Feature Importance"
+excerpt: "Machine Learning, Feature Importance"
 ---
 
 ## Background Information
