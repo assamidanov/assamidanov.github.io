@@ -10,8 +10,8 @@ I am a Ph.D. Student in Economics at Claremont Graduate University. I'm passiona
 
 
 ## Technical skills
-- Programming/Database Languages: Python, R, SQL/MySQL
-- Other: Statistical Methods(Regression, AVOVA, Factor Analysis, Classification), Machine Learning, Data Visualization, Web Scrapping, Data Pipelining
+- Tools: Python, R, SQL/MySQL, Spark, AWS
+- Other: Data Mining, Statistical Methods, Data Analysis, Experimental Design, Machine Learning, Data Visualization, Web Scrapping, Data Pipelining
 
 
 ## Professional Experience
