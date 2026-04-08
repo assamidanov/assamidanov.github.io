@@ -7,9 +7,8 @@ author_profile: true
 
 ## Working Papers
 
-**[Impact of Medicaid Pregnancy Dental Benefits on Prenatal Dental Utilization and Birth Outcomes](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)** *(Under Review)*  
-[SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138) 
-Assamidanov A, Qian X, Bruckner T, Manski R, Steenland M, [Lipton B](https://www.brandylipton.com/) 
+**[Impact of Medicaid Pregnancy Dental Benefits on Prenatal Dental Utilization and Birth Outcomes](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)** *(Under Review)* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138)<br>
+Assamidanov A, Qian X, Bruckner T, Manski R, Steenland M, [Lipton B](https://www.brandylipton.com/)
 
 **[The Effect of Paid Sick Leave Mandates on Social Security Disability Claims](https://www.nber.org/papers/w34542)** *(Under Review)*  
 [NBER Working Paper No. 34542](https://www.nber.org/papers/w34542)  
