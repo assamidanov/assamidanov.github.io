@@ -41,5 +41,5 @@ Assamidanov A, Tonti L, Arnold M, Lipton B
 **Expanding Medicaid to Undocumented Adults Activated Latent Provider Capacity in California**  
 Assamidanov A, Herring J, Vargas Nunez C, Vargas Bustamante A 
 
-**Medicaid Reimbursement Rates and Provider Participation: Evidence from State Fee Schedule Changes**
+**Medicaid Reimbursement Rates and Provider Participation: Evidence from State Fee Schedule Changes**  (  ) 
 Assamidanov A, Lee A
