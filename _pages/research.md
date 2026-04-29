@@ -17,10 +17,10 @@ Assamidanov A, Qian X, Dave D, Kim J, Lipton B, Sabia J
 **[When Parents Can Take Time: Paid Sick Leave and Adolescent Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** *(Under Review)*  | [SSRN Version](https://papers.ssrn.com/abstract=6332078)  
 Assamidanov A, Khalid S  
 
-**State Medicaid Audio-Only Telehealth Coverage and Substance Use Disorder Treatment Admissions: A Difference-in-Differences Analysis** *(Under Review)*  
+**State Medicaid Audio-Only Telehealth Coverage and Substance Use Disorder Treatment Admissions: A Difference-in-Differences Analysis** *(Revise & Resubmit)*  
 Assamidanov A, Masoumirad M
 
-**Trends in Provider Participation in Medicaid, 2018-2024**  *(Under Review)*  
+**Trends in Provider Participation in Medicaid, 2018-2024**  *(Reject & Resubmit)*  
 Assamidanov A, Herring J
 
 **Information Access and Transparency of Adult Vision Benefits in Medicaid Managed Care** *(Under Review)*  
