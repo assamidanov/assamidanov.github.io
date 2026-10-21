@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://assamidanov.github.io/files/Anuar_cv.pdf) <i class="fa fa-file-pdf-o"> </i> <br>
+[Curriculum Vitae (PDF)](https://assamidanov.github.io/files/Assamidanov_CV.pdf) <i class="fa fa-file-pdf-o"> </i> <br>

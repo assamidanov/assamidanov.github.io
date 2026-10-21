@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anwar Assamidanov"
 title_separator          : "-"
 name                     : &name "Anwar Assamidanov"
-description              : &description "Postdoctol Scholar in Health Economics at UCI Health"
+description              : &description "Applied microeconomist in health and labor economics. Postdoctoral Scholar, UC Irvine."
 url                      : https://assamidanov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "assamidanov/assamidanov.github.io"
@@ -72,7 +72,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-80724937-2"
 
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Anwar Assamidanov"
   avatar           : "profile_photo.jpg"
-  bio              : "Postdoctol Scholar in Health Economics at UCI Health"
+  bio              : "Postdoctoral Scholar in Health Economics, UC Irvine"
   location         : "Irvine, CA, USA"
   employer         :
   googlescholar    : 
@@ -141,6 +141,13 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - resume.cls
+  - CONTRIBUTING.md
+  - CHANGELOG.md
 keep_files:
   - .git
   - .svn
