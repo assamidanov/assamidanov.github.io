@@ -18,10 +18,13 @@ I received my PhD in Economics from Claremont Graduate University in 2024.
 
 ### Job Market Paper
 
-**[When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** (with Muhammad Salman Khalid) | [SSRN](https://papers.ssrn.com/abstract=6332078)
+**[When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** | [SSRN](https://papers.ssrn.com/abstract=6332078)  
+Anwar Assamidanov and Muhammad Salman Khalid
 
 Adolescent mental health care often depends on parental time. Using a staggered difference-in-differences design and two national surveys, we find that state paid sick leave mandates increased adolescents' receipt of mental health care by 3.0 percentage points, a 16.4 percent increase, while self-reported depressive symptoms declined. Parents' care-coordination time rose with no reduction in work hours or employment, pointing to parents' time, rather than income, as the mechanism.
 
 ### Forthcoming Publication
 
-**California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation**, *Health Affairs*, December 2026 (with Jordan Herring, Cesar Vargas Nunez, and Arturo Vargas Bustamante)
+**California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation**  
+*Health Affairs*, December 2026  
+Anwar Assamidanov, Jordan Herring, Cesar Vargas Nunez, and Arturo Vargas Bustamante
