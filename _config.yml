@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anwar Assamidanov"
 title_separator          : "-"
 name                     : &name "Anwar Assamidanov"
-description              : &description "Applied microeconomist in health and labor economics. Postdoctoral Scholar, UC Irvine."
+description              : &description "Health economics, labor economics, and health policy. Postdoctoral Scholar, UC Irvine."
 url                      : https://assamidanov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "assamidanov/assamidanov.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Anwar Assamidanov"
   avatar           : "profile_photo.jpg"
-  bio              : "Applied microeconomist in health and labor economics. Postdoctoral Scholar, UC Irvine."
+  bio              : "Health economics, labor economics, and health policy. Postdoctoral Scholar, UC Irvine."
   location         : "Irvine, CA, USA"
   employer         :
   googlescholar    : 
