@@ -5,27 +5,25 @@ permalink: /research/
 author_profile: true
 ---
 
-<div class="section-label">Job Market Paper</div>
-
-<div class="paper">
-  <p class="paper-title"><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health</a></p>
-  <p class="paper-meta"><span class="status">Under review</span><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">PDF</a> · <a href="https://papers.ssrn.com/abstract=6332078">SSRN</a></p>
-  <p class="paper-authors"><strong>Assamidanov A</strong>, Khalid S</p>
-</div>
-
 <div class="section-label">Publications</div>
 
 <div class="paper">
   <p class="paper-title">California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation</p>
-  <p class="paper-meta"><span class="status">Forthcoming</span><span class="venue">Health Affairs</span>, December 2026</p>
+  <p class="paper-meta"><span class="status">Forthcoming</span> <span class="venue">Health Affairs</span>, December 2026</p>
   <p class="paper-authors"><strong>Assamidanov A</strong>, Herring J, Vargas Nunez C, Vargas Bustamante A</p>
 </div>
 
 <div class="section-label">Working Papers</div>
 
+<div class="paper">
+  <p class="paper-title"><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health</a></p>
+  <p class="paper-meta"><span class="status jmp">Job market paper</span> <span class="status">Under review</span> <a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">PDF</a> · <a href="https://papers.ssrn.com/abstract=6332078">SSRN</a></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Khalid S</p>
+</div>
+
 <div class="paper wp">
   <p class="paper-title">Information Access and Transparency of Adult Vision Benefits in Medicaid Managed Care</p>
-  <p class="paper-meta"><span class="status">Minor revision</span><span class="venue">American Journal of Managed Care</span></p>
+  <p class="paper-meta"><span class="status">Minor revision</span> <span class="venue">American Journal of Managed Care</span></p>
   <p class="paper-authors"><strong>Assamidanov A</strong>, Hsieh TP, Patel N, De Leon C, McInerney M, Boudreaux MH, <a href="https://www.brandylipton.com/">Lipton B</a></p>
 </div>
 
@@ -37,7 +35,7 @@ author_profile: true
 
 <div class="paper wp">
   <p class="paper-title"><a href="https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf">Impact of Medicaid Pregnancy Dental Benefits on Prenatal Dental Utilization and Birth Outcomes</a></p>
-  <p class="paper-meta"><span class="status">Under review</span><a href="https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf">PDF</a> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138">SSRN</a></p>
+  <p class="paper-meta"><span class="status">Under review</span> <a href="https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf">PDF</a> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138">SSRN</a></p>
   <p class="paper-authors"><strong>Assamidanov A</strong>, Qian X, Bruckner T, Steenland M, Manski R, Lipton B</p>
 </div>
 

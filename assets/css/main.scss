@@ -78,11 +78,16 @@
 }
 .paper-meta .status {
   display: inline-block;
-  margin-right: 0.5em;
+  margin-right: 0.2em;
   padding: 0 0.5em;
   border: 1px solid #c9dbe2;
   border-radius: 3px;
   color: #5e94a8;
+}
+.paper-meta .status.jmp {
+  border-color: #5e94a8;
+  background: #5e94a8;
+  color: #fff;
 }
 .paper-meta a {
   margin-left: 0.3em;

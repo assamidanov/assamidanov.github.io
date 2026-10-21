@@ -20,7 +20,7 @@ I received my PhD in Economics from Claremont Graduate University in 2024.
 
 <div class="paper">
   <p class="paper-title"><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health</a></p>
-  <p class="paper-meta"><span class="status">Under review</span><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">PDF</a> · <a href="https://papers.ssrn.com/abstract=6332078">SSRN</a></p>
+  <p class="paper-meta"><span class="status">Under review</span> <a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">PDF</a> · <a href="https://papers.ssrn.com/abstract=6332078">SSRN</a></p>
   <p class="paper-authors"><strong>Anwar Assamidanov</strong> and Muhammad Salman Khalid</p>
   <p class="paper-summary">Adolescent mental health care often depends on parental time. Using a staggered difference-in-differences design and two national surveys, we find that state paid sick leave mandates <strong>increased adolescents' receipt of mental health care by 3.0 percentage points (16.4 percent)</strong>, while self-reported depressive symptoms declined. Parents' care-coordination time rose with no reduction in work hours or employment, pointing to parents' time, rather than income, as the mechanism.</p>
 </div>
@@ -29,7 +29,7 @@ I received my PhD in Economics from Claremont Graduate University in 2024.
 
 <div class="paper">
   <p class="paper-title">California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation</p>
-  <p class="paper-meta"><span class="status">Forthcoming</span><span class="venue">Health Affairs</span>, December 2026</p>
+  <p class="paper-meta"><span class="status">Forthcoming</span> <span class="venue">Health Affairs</span>, December 2026</p>
   <p class="paper-authors"><strong>Anwar Assamidanov</strong>, Jordan Herring, Cesar Vargas Nunez, and Arturo Vargas Bustamante</p>
   <p class="paper-summary">California extended full-scope Medi-Cal to income-eligible undocumented adults ages 50 and older in 2022 and ages 26 to 49 in 2024. We study whether these expansions drew more primary care physicians into Medi-Cal.</p>
 </div>
