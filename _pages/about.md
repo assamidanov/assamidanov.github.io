@@ -12,7 +12,7 @@ redirect_from:
 
 I am an applied microeconomist specializing in health and labor economics, and a Postdoctoral Scholar at the University of California, Irvine, Joe C. Wen School of Population & Public Health. I use causal inference and large administrative data to evaluate how Medicaid, health insurance, and labor policies affect access to care, health outcomes, and costs.
 
-I received my PhD in Economics from Claremont Graduate University in 2024. I am on the 2026–2027 job market.
+I received my PhD in Economics from Claremont Graduate University in 2024.
 
 [Curriculum Vitae (PDF)](https://assamidanov.github.io/files/Assamidanov_CV.pdf)
 
