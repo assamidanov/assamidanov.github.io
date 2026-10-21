@@ -28,3 +28,5 @@ Adolescent mental health care often depends on parental time. Using a staggered 
 **California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation**  
 *Health Affairs*, December 2026  
 Anwar Assamidanov, Jordan Herring, Cesar Vargas Nunez, and Arturo Vargas Bustamante
+
+California extended full-scope Medi-Cal to income-eligible undocumented adults ages 50 and older in 2022 and ages 26 to 49 in 2024. We study whether these expansions drew more primary care physicians into Medi-Cal.
