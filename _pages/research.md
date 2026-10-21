@@ -5,42 +5,69 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+<div class="section-label">Job Market Paper</div>
 
-**[When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** *(Under Review)* | [SSRN](https://papers.ssrn.com/abstract=6332078)  
-Assamidanov A, Khalid S
+<div class="paper">
+  <p class="paper-title"><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health</a></p>
+  <p class="paper-meta"><span class="status">Under review</span><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">PDF</a> · <a href="https://papers.ssrn.com/abstract=6332078">SSRN</a></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Khalid S</p>
+</div>
 
-## Publications
+<div class="section-label">Publications</div>
 
-**California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation** *(Forthcoming, Health Affairs, December 2026)*  
-Assamidanov A, Herring J, Vargas Nunez C, Vargas Bustamante A
+<div class="paper">
+  <p class="paper-title">California's Medi-Cal Expansion to Undocumented Adults Was Associated with Greater Primary Care Participation</p>
+  <p class="paper-meta"><span class="status">Forthcoming</span><span class="venue">Health Affairs</span>, December 2026</p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Herring J, Vargas Nunez C, Vargas Bustamante A</p>
+</div>
 
-## Working Papers
+<div class="section-label">Working Papers</div>
 
-**Information Access and Transparency of Adult Vision Benefits in Medicaid Managed Care** *(Minor Revision, American Journal of Managed Care)*  
-Assamidanov A, Hsieh TP, Patel N, De Leon C, McInerney M, Boudreaux MH, [Lipton B](https://www.brandylipton.com/)
+<div class="paper wp">
+  <p class="paper-title">Information Access and Transparency of Adult Vision Benefits in Medicaid Managed Care</p>
+  <p class="paper-meta"><span class="status">Minor revision</span><span class="venue">American Journal of Managed Care</span></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Hsieh TP, Patel N, De Leon C, McInerney M, Boudreaux MH, <a href="https://www.brandylipton.com/">Lipton B</a></p>
+</div>
 
-**State Medicaid Audio-Only Telehealth Coverage and Substance Use Disorder Treatment Admissions: A Difference-in-Differences Analysis** *(Revise and Resubmit)*  
-Assamidanov A, Masoumirad M
+<div class="paper wp">
+  <p class="paper-title">State Medicaid Audio-Only Telehealth Coverage and Substance Use Disorder Treatment Admissions: A Difference-in-Differences Analysis</p>
+  <p class="paper-meta"><span class="status">Revise and resubmit</span></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Masoumirad M</p>
+</div>
 
-**[Impact of Medicaid Pregnancy Dental Benefits on Prenatal Dental Utilization and Birth Outcomes](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)** *(Under Review)* | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138)  
-Assamidanov A, Qian X, Bruckner T, Steenland M, Manski R, Lipton B
+<div class="paper wp">
+  <p class="paper-title"><a href="https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf">Impact of Medicaid Pregnancy Dental Benefits on Prenatal Dental Utilization and Birth Outcomes</a></p>
+  <p class="paper-meta"><span class="status">Under review</span><a href="https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf">PDF</a> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138">SSRN</a></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Qian X, Bruckner T, Steenland M, Manski R, Lipton B</p>
+</div>
 
-**Adult Hearing Health Care Coverage in Medicaid Managed Care Enrollee Handbooks** *(Under Review)*  
-Assamidanov A, Loi NN, Tonti L, Pita M, Sandhu HK, Arnold ML, Pesko MF, Lipton B
+<div class="paper wp">
+  <p class="paper-title">Adult Hearing Health Care Coverage in Medicaid Managed Care Enrollee Handbooks</p>
+  <p class="paper-meta"><span class="status">Under review</span></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Loi NN, Tonti L, Pita M, Sandhu HK, Arnold ML, Pesko MF, Lipton B</p>
+</div>
 
-**[The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims](https://www.nber.org/papers/w34542)** | NBER Working Paper No. 34542  
-Assamidanov A, Dave D, Kim J, Lipton B, Qian X, Sabia J
+<div class="paper wp">
+  <p class="paper-title"><a href="https://www.nber.org/papers/w34542">The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims</a></p>
+  <p class="paper-meta"><span class="venue">NBER Working Paper No. 34542</span></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Dave D, Kim J, Lipton B, Qian X, Sabia J</p>
+</div>
 
-**California Advancing and Innovating Medi-Cal Was Associated With Growth in California's Active Medicaid Behavioral Health Workforce**  
-Assamidanov A, Herring J, Zhu J
+<div class="paper wp">
+  <p class="paper-title">California Advancing and Innovating Medi-Cal Was Associated With Growth in California's Active Medicaid Behavioral Health Workforce</p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Herring J, Zhu J</p>
+</div>
 
-**Impact of Medicaid Dental Coverage Expansion on Dental Care Utilization and Smoking Behavior Among Reproductive-Age Women**  
-Qian X, Assamidanov A, Bruckner T, Manski R, Steenland M, Lipton B
+<div class="paper wp">
+  <p class="paper-title">Impact of Medicaid Dental Coverage Expansion on Dental Care Utilization and Smoking Behavior Among Reproductive-Age Women</p>
+  <p class="paper-authors">Qian X, <strong>Assamidanov A</strong>, Bruckner T, Manski R, Steenland M, Lipton B</p>
+</div>
 
-## Work in Progress
+<div class="section-label">Work in Progress</div>
 
-- From Emergency-Only to Full-Scope Medi-Cal: Effects on Emergency Department Use, Avoidable Visits, and Spending (with Sultana S, Lipton B)
-- Do Coverage Expansions Bring Specialists into Medicaid? Evidence from California's Medi-Cal Expansions to Undocumented Adults (with Vargas Bustamante A)
-- Coverage Without Dentists? Local Dentist Supply and the Effects of Medicaid Pregnancy Dental Benefits (with Qian X, Bruckner T, Manski R, Steenland M, Lipton B)
-- Medicaid Payments for Home and Community-Based Services and Hospital Use: Evidence from Alaska (with Lee A)
+<ul class="wip-list">
+  <li>From Emergency-Only to Full-Scope Medi-Cal: Effects on Emergency Department Use, Avoidable Visits, and Spending (with Sultana S, Lipton B)</li>
+  <li>Do Coverage Expansions Bring Specialists into Medicaid? Evidence from California's Medi-Cal Expansions to Undocumented Adults (with Vargas Bustamante A)</li>
+  <li>Coverage Without Dentists? Local Dentist Supply and the Effects of Medicaid Pregnancy Dental Benefits (with Qian X, Bruckner T, Manski R, Steenland M, Lipton B)</li>
+  <li>Medicaid Payments for Home and Community-Based Services and Hospital Use: Evidence from Alaska (with Lee A)</li>
+</ul>
