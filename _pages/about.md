@@ -10,7 +10,7 @@ redirect_from:
 
 <img align="right" src="https://assamidanov.github.io/images/profile_photo.png" alt="Photo of Anwar Assamidanov" style="width: 38%; max-width: 420px; border-radius: 10px; padding: 8px; height: auto;"/>
 
-I am an applied microeconomist specializing in health and labor economics, and a Postdoctoral Scholar at the University of California, Irvine, Joe C. Wen School of Population & Public Health. I use causal inference and large administrative data to evaluate how Medicaid, health insurance, and labor policies affect access to care, health outcomes, and costs.
+I am a Postdoctoral Scholar at the University of California, Irvine, Joe C. Wen School of Population & Public Health. My research spans health economics, labor economics, and health policy. I use causal inference and large administrative data to evaluate how Medicaid, health insurance, and labor policies affect access to care, health outcomes, and costs.
 
 I received my PhD in Economics from Claremont Graduate University in 2024.
 
