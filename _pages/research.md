@@ -47,7 +47,7 @@ author_profile: true
 
 <div class="paper wp">
   <p class="paper-title"><a href="https://www.nber.org/papers/w34542">The Effect of Paid Sick Leave Mandates on Individuals with Disabilities: Evidence from Social Security Disability Claims</a></p>
-  <p class="paper-meta"><span class="venue">NBER Working Paper No. 34542</span></p>
+  <p class="paper-meta"><a class="first" href="https://www.nber.org/papers/w34542">NBER Working Paper No. 34542</a></p>
   <p class="paper-authors"><strong>Assamidanov A</strong>, Dave D, Kim J, Lipton B, Qian X, Sabia J</p>
 </div>
 

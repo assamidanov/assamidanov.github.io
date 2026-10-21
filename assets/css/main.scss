@@ -92,6 +92,9 @@
 .paper-meta a {
   margin-left: 0.3em;
 }
+.paper-meta a.first {
+  margin-left: 0;
+}
 .paper-authors strong {
   color: #494e52;
 }
